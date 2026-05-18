@@ -10,4 +10,4 @@ var sortNumber = function (number) {
 var number = [19, 3, 81, 1, 24, 21];
 console.log(number);
 var result = sortNumber(number);
-if(result){console.log(aaaaa)}
+// if(result){} 保留
